@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Ranchi Hairport Family Salon",
+  "description": "Premium beauty and wellness services in Ranchi, Jharkhand.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
